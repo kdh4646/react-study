@@ -48,3 +48,5 @@
   1. Reusability
 
   2. Separation of Concerns
+
+- `Props` are the `attributes` of your "custom HTML elements" (Components)
