@@ -1,3 +1,6 @@
+//userState is one of React Hooks, need for updating states
+import React, { useState } from 'react';
+
 import ExpenseDate from './ExpenseDate';
 import Card from '../UI/Card';
 import './ExpenseItem.css';
@@ -12,10 +15,22 @@ import './ExpenseItem.css';
     One parameter "props" for receiving data, key and value pairs
 */
 const ExpenseItem = (props) => {
-  let title = props.title;
+  /*
+    always called inside function
+    always return an array with two elements
+
+    first param = pointer to the default value (current state value)
+    second param = function for updating
+  */
+  const [title, setTitle] = useState(props.title);
   
   const clickHandler = () => {
-    title = 'Updated!';
+    /*
+      state updating function
+      1. assign a new value
+      2. execute component function again
+    */
+    setTitle('Updated');
   };
 
   return (
