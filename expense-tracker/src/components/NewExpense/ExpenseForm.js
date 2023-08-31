@@ -15,6 +15,22 @@ const ExpenseForm = () => {
   //     enteredDate: "",
   //   });
 
+  /*
+    Shared functionby using identifier, and value 
+    
+    Need to change onChange function as well, respectively
+    - onChange={ (event) => inputChangeHandler("title", event.target.value) }
+  */
+  //   const inputChangeHandler = (identifier, value) => {
+  //     if (identifier === "title") {
+  //       setEnteredTitle(value);
+  //     } else if (identifier === "date") {
+  //       setEnteredDate(value);
+  //     } else {
+  //       setEnteredAmount(value);
+  //     }
+  //   };
+
   //automatically get the "event" object from browser (same as JavaScript)
   const titleChangeHandler = (event) => {
     setEnteredTitle(event.target.value);
