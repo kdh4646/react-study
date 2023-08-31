@@ -7,6 +7,9 @@ import Expenses from './components/Expenses/Expenses';
   
   Only works because there are transformation steps running behind scenes.
   (npm start process transform JavaScript code to more browser friendly code)
+
+  Using Arrow Func: 
+    - const App = () => { ... } == function App() { ... }
 */
 function App() {
   const expenses = [
