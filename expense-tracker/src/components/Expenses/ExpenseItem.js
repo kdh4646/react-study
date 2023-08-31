@@ -1,9 +1,9 @@
 //userState is one of React Hooks, need for updating states
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
-import ExpenseDate from './ExpenseDate';
-import Card from '../UI/Card';
-import './ExpenseItem.css';
+import ExpenseDate from "./ExpenseDate";
+import Card from "../UI/Card";
+import "./ExpenseItem.css";
 
 /*
     A Component is React is just a JavaScript Function (returning JSX)
@@ -23,26 +23,26 @@ const ExpenseItem = (props) => {
     second param = function for updating
   */
   const [title, setTitle] = useState(props.title);
-  
+
   const clickHandler = () => {
     /*
       state updating function
       1. assign a new value
       2. execute component function again
     */
-    setTitle('Updated');
+    setTitle("Updated");
   };
 
   return (
-    <Card className='expense-item'>
+    <Card className="expense-item">
       <ExpenseDate date={props.date} />
-      <div className='expense-item__description'>
+      <div className="expense-item__description">
         <h2>{title}</h2>
-        <div className='expense-item__price'>${props.amount}</div>
+        <div className="expense-item__price">${props.amount}</div>
       </div>
       <button onClick={clickHandler}>Change Title</button>
     </Card>
   );
-}
+};
 
 export default ExpenseItem;
