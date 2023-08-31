@@ -1,6 +1,6 @@
 //import ExpenseItem.js for usage
 //import ExpenseItem from './components/ExpenseItem';
-import Expenses from './components/Expenses';
+import Expenses from './components/Expenses/Expenses';
 
 /*
   JSX (JavaScript XML)
