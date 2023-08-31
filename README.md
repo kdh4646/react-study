@@ -50,3 +50,8 @@
   2. Separation of Concerns
 
 - `Props` are the `attributes` of your "custom HTML elements" (Components)
+
+- `Composition`
+  1. Whenever combine components, using composition
+  
+  2. `props.children` (which is the context between the opening and closing tags) allows you to create a wrapper component
