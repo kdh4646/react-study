@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import "./ExpenseForm.css";
 
-const ExpenseForm = () => {
+const ExpenseForm = (props) => {
   //useState always getting value as a String
   const [enteredTitle, setEnteredTitle] = useState("");
   const [enteredAmount, setEnteredAmount] = useState("");
@@ -77,6 +77,9 @@ const ExpenseForm = () => {
       amount: enteredAmount,
       date: new Date(enteredDate),
     };
+
+    //child to parent (bottom-top) connection
+    props.onSaveExpenseData(expenseData);
 
     //add "value" to the input and use for clearing - "two-way binding"
     setEnteredTitle("");

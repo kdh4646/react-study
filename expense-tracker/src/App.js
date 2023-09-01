@@ -1,7 +1,7 @@
 //import ExpenseItem.js for usage
 //import ExpenseItem from './components/ExpenseItem';
-import Expenses from './components/Expenses/Expenses';
-import NewExpense from './components/NewExpense/NewExpense';
+import Expenses from "./components/Expenses/Expenses";
+import NewExpense from "./components/NewExpense/NewExpense";
 
 /*
   JSX (JavaScript XML)
@@ -35,6 +35,11 @@ function App() {
     },
   ];
 
+  const addExpenseHandler = (expense) => {
+    console.log("In App.js");
+    console.log(expense);
+  };
+
   /*
     Old React Usage
 
@@ -49,7 +54,7 @@ function App() {
   */
   return (
     <div>
-      <NewExpense />
+      <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items={expenses} />
     </div>
   );
