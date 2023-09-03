@@ -4,6 +4,11 @@
 - A `library` for building user interfaces. 
 - `Declarative UI Programming` (define the target UI state(s) - not the steps to get there)
 
+# ✍ Projects
+- [Key React Concepts](https://github.com/kdh4646/key-react-concepts/tree/f6287653ed38d692780f8c614a2286491f25a8a8)
+- [Expense Tracker](https://github.com/kdh4646/expense-tracker/tree/11d3ec97a59ec211c7220dbbc84fc7cd3e814879)
+- [Course Goal](https://github.com/kdh4646/course-goal/tree/095ed625e7adec440007e0d4721eaca2e03f6e8b)
+
 # 📖 How to Setup
 - Download
   - <a href="https://code.visualstudio.com/download"> ***VS Code*** </a>
