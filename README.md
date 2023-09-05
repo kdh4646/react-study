@@ -9,6 +9,7 @@
 - [Expense Tracker](https://github.com/kdh4646/expense-tracker/tree/11d3ec97a59ec211c7220dbbc84fc7cd3e814879)
 - [Course Goal](https://github.com/kdh4646/course-goal/tree/095ed625e7adec440007e0d4721eaca2e03f6e8b)
 - [Investment Calculator](https://github.com/kdh4646/investment-calculator/tree/49825efeda8f1a6bf43922d2c4b497693434a1f1)
+- [User Info](https://github.com/kdh4646/user-info/tree/4725dbbd65741b4b59e27304b98be5394664503e)
 
 # 📖 How to Setup
 - Download
