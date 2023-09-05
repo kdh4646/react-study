@@ -62,3 +62,25 @@
   1. Whenever combine components, using composition
   
   2. `props.children` (which is the context between the opening and closing tags) allows you to create a wrapper component
+ 
+- Cleaner HTML Code
+  - `Fragmet`:
+    1. To avoid `<div>` soup
+    
+    2. React.Fragment
+    
+    3. `<Fragmet> ... </Fragment>`
+  
+  - `Portal`:
+    1. Render component to other section
+  
+    2. `ReactDOM.createPortal(which component..., where to...);`
+  
+  - `Reference`:
+    1. For Read only (not for changing -> then `useState()`)
+
+    2. An object which always has `current` prop
+
+    3. Reat.userRef
+
+    4. `const variableName = useRef(defaultValue);`
