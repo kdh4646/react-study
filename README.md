@@ -77,10 +77,19 @@
     2. `ReactDOM.createPortal(which component..., where to...);`
   
   - `Reference`:
-    1. For Read only (not for changing -> then `useState()`)
+    1. For Read only (not for changing -> if changing then `useState()`)
 
     2. An object which always has `current` prop
 
     3. Reat.userRef
 
     4. `const variableName = useRef(defaultValue);`
+
+- `useEffect()` hook
+  1. `useEffect(() => {}, [])`: first param is `function` and second param is `dependency array`
+  
+  2. Runs only if dependency changes
+  
+  3. Rus "AFTER" every component evaluation
+
+
