@@ -92,4 +92,45 @@
   
   3. Rus "AFTER" every component evaluation
 
+- useState() vs. useReducer()
+<table>
+  <tr>
+    <th>
+      <strong>
+        useState()
+      </strong>
+    </th>
+    <th>
+      <strong>
+        useReducer()
+      </strong>
+    </th>
+  </tr>
+  
+  <tr>
+    <th>
+      The main state management "tool"
+    </th>
+    <th>
+      Greate if you need "more power"
+    </th>
+  </tr>
+  
+  <tr>
+    <th>
+      Greate for independent pieces of state/data
+    </th>
+    <th>
+      Should be considered if you have related pieces of state/data
+    </th>
+  </tr>
 
+  <tr>
+    <th>
+      Greate if state updates are easy and limited to a few kinds of updates
+    </th>
+    <th>
+      Can be helpful if you have more complex state updates
+    </th>
+  </tr>
+</table>
