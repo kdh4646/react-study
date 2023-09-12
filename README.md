@@ -10,6 +10,7 @@
 - [Course Goal](https://github.com/kdh4646/course-goal/tree/095ed625e7adec440007e0d4721eaca2e03f6e8b)
 - [Investment Calculator](https://github.com/kdh4646/investment-calculator/tree/49825efeda8f1a6bf43922d2c4b497693434a1f1)
 - [User Info](https://github.com/kdh4646/user-info/tree/4725dbbd65741b4b59e27304b98be5394664503e)
+- [Email Password Page](https://github.com/kdh4646/email-password-page/tree/b7499a3d253bfbb92914021a4f74f642a7e83d89)
 
 # 📖 How to Setup
 - Download
@@ -134,3 +135,10 @@
     </th>
   </tr>
 </table>
+
+- Rules of Hooks
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/c4b4b587-1fd0-46b3-a359-179d84399052)
+
+
+
