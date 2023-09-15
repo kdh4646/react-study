@@ -157,3 +157,8 @@
   - Do `optimization`
   - Not using a lot since it costs
     - Need to `store the prop values` and need to make the `comparison`
+  
+  - <h2>It will re-evaluate even though prop doesn't change, if prop contains non-primitive type since JavaScript returns new object every execution and those props are not equal</h2>
+  
+  - To prevent, if function need to NEVER change   
+    - use: `useCallback(never_change_function_context)`
