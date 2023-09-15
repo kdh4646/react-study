@@ -141,5 +141,13 @@
 
 ![image](https://github.com/kdh4646/react-study/assets/71913953/c4b4b587-1fd0-46b3-a359-179d84399052)
 
+- React: behind the scene
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/4308cd11-aed7-4e8e-ac0a-b5b1d3649cb1)
+
+- Re-Evaluating Components !== Re-Rendering the DOM (partially)
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/201bead6-750e-425a-88bb-f1970dda7240)
+
 
 
