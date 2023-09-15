@@ -149,5 +149,11 @@
 
 ![image](https://github.com/kdh4646/react-study/assets/71913953/201bead6-750e-425a-88bb-f1970dda7240)
 
-
-
+- `React.memo(component_name)`
+  - Check the component's previous props vs. new values
+  - Only values of the prop changes, then componenet should be re-executed and re-evalualted
+  - If prop doesn't change then component execution is skipped
+  - Its child also not executed
+  - Do `optimization`
+  - Not using a lot since it costs
+    - Need to `store the prop values` and need to make the `comparison`
