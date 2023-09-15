@@ -160,5 +160,6 @@
   
   - <h2>It will re-evaluate even though prop doesn't change, if prop contains non-primitive type since JavaScript returns new object every execution and those props are not equal</h2>
   
-  - To prevent, if function need to NEVER change   
+  - To prevent, if `function` need to NEVER change   
     - use: `useCallback(never_change_function_context, [dependency_list])`
+  - `useMemo(data, [dependency_list])`: is used for tracking the unchanged `data` and if no changes then not running again
