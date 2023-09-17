@@ -12,6 +12,8 @@
 - [User Info](https://github.com/kdh4646/user-info)
 - [Email Password Page](https://github.com/kdh4646/email-password-page)
 - [The Food Order App](https://github.com/kdh4646/the-food-order-app)
+- [Class Based Components](https://github.com/kdh4646/class-based-components)
+- [Fetch Movies](https://github.com/kdh4646/fetch-movies)
 
 # 📖 How to Setup
 - Download
