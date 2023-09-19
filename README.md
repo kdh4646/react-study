@@ -165,3 +165,10 @@
   - To prevent, if `function` need to NEVER change   
     - use: `useCallback(never_change_function_context, [dependency_list])`
   - `useMemo(data, [dependency_list])`: is used for tracking the unchanged `data` and if no changes then not running again
+
+- Redux: alternative of useContext()
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/e0d1bb63-c31f-4aa7-8830-bd1c83df33c0)
+
+
+
