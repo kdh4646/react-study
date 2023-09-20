@@ -171,5 +171,8 @@
 
 ![image](https://github.com/kdh4646/react-study/assets/71913953/e0d1bb63-c31f-4aa7-8830-bd1c83df33c0)
 
+- Where to put our logic
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/ee654809-c5f7-4637-a3af-bac5b88a9a81)
 
 
