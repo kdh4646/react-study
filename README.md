@@ -15,6 +15,8 @@
 - [Class Based Components](https://github.com/kdh4646/class-based-components)
 - [Fetch Movies](https://github.com/kdh4646/fetch-movies)
 - [Redux Counter](https://github.com/kdh4646/redux-counter)
+- [React Router](https://github.com/kdh4646/react-router)
+- [Event Scheduler](https://github.com/kdh4646/event-scheduler)
 
 # 📖 How to Setup
 - Download
