@@ -17,6 +17,7 @@
 - [Redux Counter](https://github.com/kdh4646/redux-counter)
 - [React Router](https://github.com/kdh4646/react-router)
 - [Event Scheduler](https://github.com/kdh4646/event-scheduler)
+- [React Events Page with Tanstack](https://github.com/kdh4646/react-events-tanstack)
 
 # 📖 How to Setup
 - Download
