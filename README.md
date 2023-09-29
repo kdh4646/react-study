@@ -177,4 +177,4 @@
 
 ![image](https://github.com/kdh4646/react-study/assets/71913953/ee654809-c5f7-4637-a3af-bac5b88a9a81)
 
-
+- `npm run build` for build application
