@@ -180,3 +180,7 @@
 ![image](https://github.com/kdh4646/react-study/assets/71913953/ee654809-c5f7-4637-a3af-bac5b88a9a81)
 
 - `npm run build` for build application
+
+- React Framework: Next.js
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/5332850d-5ecf-46ed-913d-82f4c3db4fc4)
