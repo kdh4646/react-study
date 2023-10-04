@@ -20,6 +20,7 @@
 - [React Events Page with Tanstack](https://github.com/kdh4646/react-events-tanstack)
 - [Meetup Scheduler](https://github.com/kdh4646/meetup-scheduler)
 - [Manage Challenges](https://github.com/kdh4646/manage-challenges)
+- [Using Framer Motion](https://github.com/kdh4646/framer-motion-demo)
 
 # 📖 How to Setup
 - Download
