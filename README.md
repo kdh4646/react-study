@@ -19,6 +19,7 @@
 - [Event Scheduler](https://github.com/kdh4646/event-scheduler)
 - [React Events Page with Tanstack](https://github.com/kdh4646/react-events-tanstack)
 - [Meetup Scheduler](https://github.com/kdh4646/meetup-scheduler)
+- [Manage Challenges](https://github.com/kdh4646/manage-challenges)
 
 # 📖 How to Setup
 - Download
