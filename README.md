@@ -21,6 +21,7 @@
 - [Meetup Scheduler](https://github.com/kdh4646/meetup-scheduler)
 - [Manage Challenges](https://github.com/kdh4646/manage-challenges)
 - [Using Framer Motion](https://github.com/kdh4646/framer-motion-demo)
+- [Favorites (Redux)](https://github.com/kdh4646/favorites-redux)
 
 # 📖 How to Setup
 - Download
