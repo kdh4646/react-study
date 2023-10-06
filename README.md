@@ -188,3 +188,8 @@
 - command: `npx create-next-app`
 
 ![image](https://github.com/kdh4646/react-study/assets/71913953/5332850d-5ecf-46ed-913d-82f4c3db4fc4)
+
+- Testing
+
+![image](https://github.com/kdh4646/react-study/assets/71913953/558cce9e-c02e-41c8-bf52-64e0663c38ed)
+
