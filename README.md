@@ -22,6 +22,7 @@
 - [Manage Challenges](https://github.com/kdh4646/manage-challenges)
 - [Using Framer Motion](https://github.com/kdh4646/framer-motion-demo)
 - [Favorites (Redux)](https://github.com/kdh4646/favorites-redux)
+- [React + TypeScript](https://github.com/kdh4646/react-typescript)
 
 # 📖 How to Setup
 - Download
